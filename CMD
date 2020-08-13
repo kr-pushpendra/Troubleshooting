@@ -1,3 +1,0 @@
-WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!
-to solve the issue run the command mentioned below
->> ssh-keygen -R [hostname-or-IP]
